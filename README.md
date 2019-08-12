@@ -1,2 +1,2 @@
 # codingTrain
-example
+example of a coding train project.
